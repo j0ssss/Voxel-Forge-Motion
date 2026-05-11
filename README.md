@@ -129,6 +129,3 @@ The exe will be in the `dist/` folder. Note: antivirus may flag PyInstaller exes
 
 ---
 
-##  License
-
-MIT — do whatever you want with it.
